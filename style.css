@@ -1,0 +1,17 @@
+.centrado {
+  text-align: center;
+
+}
+
+.color {
+
+  background-color:gray;
+
+}
+.tabla{
+ height: 150px; 
+ width:900px; 
+ margin:0 auto; 
+ background-color:rgb(245, 245, 245);
+
+}
