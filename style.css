@@ -15,3 +15,13 @@
  background-color:rgb(245, 245, 245);
 
 }
+
+.fondo{
+  background-image:url("https://androidayuda.com/app/uploads/2016/02/crows-5.jpg");
+
+}
+
+.tamano{
+ width:200px; 
+ height:200px;
+}
